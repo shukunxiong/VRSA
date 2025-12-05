@@ -89,5 +89,16 @@ It is important to emphasize that we also support various attack methods under a
 To better track the generation and evaluation process of VRSA images, in addition to log files, we also provide JSON files that record key information of the intermediate steps according to a specific format. Specific details can be found in the comments at the beginning of **eval.py** and **generation.py**.
 
 
+## 📝 Citation
+If you use this code or method in your research, please cite our paper:
+
+    @article{[Your Citation Key],
+    title={[Your Paper Title]},
+    author={[All Authors' Names]},
+    journal={[Journal or Conference Name]},
+    year={[Year]},
+    volume={[Volume Number]},
+    pages={[Page Range]}
+    }
 
 
