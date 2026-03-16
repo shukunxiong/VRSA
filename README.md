@@ -10,6 +10,9 @@
 - [Quickstart](#-quickstart)
 - [Citation](#-citation)
 
+## 🎉 News
+- **Feb 23, 2026**: Congratulations! Our paper has been accepted to **CVPR 2026 Findings**.
+
 ## 💡 1.Introduction
 The powerful visual reasoning capabilities of MLLMs bring potential security risks of jailbreak attacks. To fully evaluate potential safety risks in the visual reasoning task, we propose Visual Reasoning Sequential Attack (VRSA), which induces MLLMs to gradually externalize and aggregate complete harmful intent by decomposing the original harmful text into several sequentially related sub-images.
 
